@@ -13,7 +13,5 @@ Comenzile pentru instalare este Valabil pe Kali Linux și Termux
 5. python3 Builder.py
 
 Odată ce virusul este generat! ieșiți din instrument și tastați „cp ifection.bat/sdcard” fără ghilimele
-# Screenshots
-![Screenshot 2023-07-17 094039](https://github.com/Cyber-Dioxide/Virus-Builder/assets/93708296/630324a9-181b-4438-87ac-86b68cb04cea)
 
 
